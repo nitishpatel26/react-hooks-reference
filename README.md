@@ -4,12 +4,12 @@ Here's a complete reference covering all 18 built-in React hooks (including the 
 
 A few highlights on how they group:
 
-State: `useState`, `useReducer`
-Effects: `useEffect`, `useLayoutEffect`, `useInsertionEffect`
-Performance: `useCallback`, `useMemo`
-Refs/DOM: `useRef`, `useImperativeHandle`
-Concurrent UI: `useTransition`, `useDeferredValue`
-React 19: `useOptimistic`, `useActionState`, use`
+State: `useState`, `useReducer`<br />
+Effects: `useEffect`, `useLayoutEffect`, `useInsertionEffect`<br />
+Performance: `useCallback`, `useMemo`<br />
+Refs/DOM: `useRef`, `useImperativeHandle`<br />
+Concurrent UI: `useTransition`, `useDeferredValue`<br />
+React 19: `useOptimistic`, `useActionState`, use`<br />
 
 ## 1. useState
 Manages local state in a function component.
