@@ -9,7 +9,7 @@ Effects: `useEffect`, `useLayoutEffect`, `useInsertionEffect`<br />
 Performance: `useCallback`, `useMemo`<br />
 Refs/DOM: `useRef`, `useImperativeHandle`<br />
 Concurrent UI: `useTransition`, `useDeferredValue`<br />
-React 19: `useOptimistic`, `useActionState`, use`<br />
+React 19: `useOptimistic`, `useActionState`, `use`<br />
 
 ## 1. useState
 Manages local state in a function component.
